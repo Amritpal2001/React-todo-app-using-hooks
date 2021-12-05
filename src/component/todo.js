@@ -29,7 +29,7 @@ const Todo = () => {
             <div className='main-div'>
                 <div className='child-div'>
                         <img width={200} src={todoimg} alt="todo" />
-                        <h1 color='white'>Add Your List Here</h1>
+                        <h1 color='white'>Add Your List Here!!</h1>
 
                         <div className = 'addItems'>
                             <input type="text" placeholder='👉 Add Items....' 
